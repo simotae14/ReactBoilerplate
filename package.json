@@ -1,0 +1,41 @@
+{
+  "name": "reactboilerplate",
+  "version": "1.0.0",
+  "description": "Basic boilerplate for a react project",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simotae14/ReactBoilerplate.git"
+  },
+  "keywords": [
+    "ReactBoilerplate"
+  ],
+  "author": "Simone Taeggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simotae14/ReactBoilerplate/issues"
+  },
+  "homepage": "https://github.com/simotae14/ReactBoilerplate#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "react-scripts": "^3.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
